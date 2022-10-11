@@ -1,0 +1,5 @@
+package com.fundsperson.exception;
+
+public class Exception {
+    
+}
